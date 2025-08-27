@@ -1,0 +1,12 @@
+{
+  "userIgnoreFilters": [
+    "node_modules/",
+    "public/",
+    "quartz/",
+    "docs/"
+  ],
+  "showInlineTitle": true,
+  "attachmentFolderPath": "content/assets",
+  "alwaysUpdateLinks": true,
+  "promptDelete": false
+}
