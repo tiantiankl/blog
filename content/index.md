@@ -9,3 +9,4 @@ asdahsfuhausfh
 ## 测试2
 这是一个测试2
 
+![[Pasted image 20250828131423.png]]
