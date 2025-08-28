@@ -10,6 +10,7 @@ export const sharedPageComponents: SharedLayout = {
       小学: "https://zsz8.com:8",
       健康: "https://6.cjsq.net:6",
       窗帘网: "https://www.clw8.com:5",
+      摘星辰: "https://blog.zzzxc.com",
     },
   }),
 }
