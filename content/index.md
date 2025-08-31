@@ -2,11 +2,6 @@
 title: 我的日常
 date: 2023-08-01
 ---
-123123 456 789
-asdahsfuhausfh
-# 测试
-这是一个测试 123
-## 测试2
-这是一个测试2
+123 456 789
 
-![[Pasted image 20250828131423.png]]
+访问地址： https://tiantiankl.github.io/blog/
